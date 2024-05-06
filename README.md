@@ -1,5 +1,5 @@
 # Project Assignment - Individual Portion
-https://github.com/VictorLee07/CISC3003-ProjectAssignment-Individual-DC125222/new/main?filename=README.md
+[https://github.com/VictorLee07/CISC3003-ProjectAssignment-Individual-DC125222/new/main?filename=README.md](https://github.com/VictorLee07/CISC3003-ProjectAssignment-Individual-DC125222.git)
 ### Please replace the "SITEURL" and Database Password in the config/constants.php file to sure the website run well
 ### Manager Pages
 1. First, admin need to login to their account.
