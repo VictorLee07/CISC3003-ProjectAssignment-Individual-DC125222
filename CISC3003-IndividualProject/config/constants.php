@@ -3,7 +3,7 @@
 session_start();
 
 //Create Constants to Store Non Repeating Values
-define('SITEURL', 'http://localhost/cisc3003/CISC3003-IndividualProjectWS-2024/CISC3003-ProjectAssignment-Individual-GitHub-DC125222/CISC3003-IndividualProject/');
+define('SITEURL', 'http://localhost/cisc3003/CISC3003-IndividualProjectWS-2024/CISC3003-ProjectAssignment-Individual-GitHub-DC125222/CISC3003-ProjectAssignment-Individual-DC125222/CISC3003-IndividualProject/');
 define('LOCALHOST', 'localhost');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', 'sqHinL_2003717');
